@@ -4,6 +4,10 @@ Small utility to show the time it takes to compile each assembly after a reload.
 
 <img src=".github/example.png" width="300">
 
+## Add as submodule on your Unity project repository
+
+``git submodule add https://github.com/k10czar/Unity-Assembly-Debugger.git "Assets/Plugins/AssemblyDebugger"``
+
 ## Usage
 
 Just by installing this in your project it will load itself on every reload.
